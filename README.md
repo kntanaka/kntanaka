@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Kenta Tanaka👋
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,py,r,html,css,mysql,figma,ai,lr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkenta-git&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**kntanaka/kntanaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tkenta-git/tkenta-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
