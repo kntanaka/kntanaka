@@ -1,29 +1,11 @@
 ## Hi there, I'm Kenta Tanaka👋
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,py,r,html,css,mysql,figma,ai,lr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkenta-git&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkenta-git&show_icons=true&theme=radical" alt="Kenta's GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkenta-git&theme=radical" alt="Kenta's Streak" height="180" />
-</p>
+![Kenta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kntanaka&show_icons=true&theme=radical)
+
+![Kenta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kntanaka&theme=radical)
 
 ### 🛠 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kntanaka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**tkenta-git/tkenta-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kntanaka&layout=compact&theme=radical)
