@@ -3,9 +3,9 @@
 ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,py,r,html,css,mysql,figma,ai,lr)
 
 ### 📊 My GitHub Stats
-![Kenta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kntanaka&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=kntanaka&theme=radical&hide_border=false" alt="GitHub Stats" />
 
-![Kenta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kntanaka&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kntanaka&theme=radical" alt="GitHub Streak" />
 
 ### 🛠 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kntanaka&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kntanaka&layout=compact&theme=radical" alt="Top Langs" />
