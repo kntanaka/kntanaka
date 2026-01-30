@@ -3,6 +3,16 @@
 ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,py,r,html,css,mysql,figma,ai,lr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkenta-git&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tkenta-git&show_icons=true&theme=radical" alt="Kenta's GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkenta-git&theme=radical" alt="Kenta's Streak" height="180" />
+</p>
+
+### 🛠 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kntanaka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tkenta-git/tkenta-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
